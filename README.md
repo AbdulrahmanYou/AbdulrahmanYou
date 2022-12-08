@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdulrahmanYou
-- 👀 I’m interested in web development
+- 👀 I’m a web developer
 - 🌱 I’m currently learning Laravel & Flutter
 - 📫 How to reach me -> [My LinkedIn](https://www.linkedin.com/in/abdulrahmanalhomoud/)
 
